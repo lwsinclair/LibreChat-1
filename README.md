@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gold-crow-997-librechat-1-badge.png)](https://mseep.ai/app/gold-crow-997-librechat-1)
+
 <p align="center">
   <a href="https://librechat.ai">
     <img src="client/public/assets/logo.svg" height="256">
